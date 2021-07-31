@@ -15,7 +15,7 @@ Olá, Eu sou o Guilherme!
   <img align="center" alt="Assi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Assi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Assi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Assi-yoda" src="https://media.tenor.com/images/fe54f2f0a6bac416fe51259b48f36e4e/tenor.gif">
+  <img align="right" alt="DigitacaoGif" height="130" width="200" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv">
 </div>
 
 ##
