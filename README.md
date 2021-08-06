@@ -1,4 +1,4 @@
-Olá, Eu sou o Guilherme!
+Olá, Eu sou Guilherme!
 - ☕ Programador Júnior na HAVAN
 - 💻 Estudando C#
 
