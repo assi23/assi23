@@ -1,7 +1,7 @@
 Olá, Eu sou Guilherme!
 - ☕ Programador Júnior na HAVAN;
 - 💻 Estudando C#;
--  <img align="center" alt="Assi-Java" height="20" width="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vJmozAhY--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/19/57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png"> Vontade de aprender Java;
+- <img align="center" alt="Assi-Java" height="20" width="20" src="https://res.cloudinary.com/practicaldev/image/fetch/s--vJmozAhY--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/19/57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png"> Querendo aprender Java;
 
 <div>
   <a href="https://github.com/assi23">
