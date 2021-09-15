@@ -17,7 +17,7 @@ Olá, Eu sou Guilherme!
   <img align="center" alt="Assi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Assi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Assi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="DigitacaoGif" height="130" width="150" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv">
+  <img align="right" alt="DigitacaoGif" height="130" width="150" src="https://media.giphy.com/media/L2ZYFoDdl1Ng8Chxn9/giphy.gif?cid=790b7611c5d50c979398704c0d846d9268c4ef323feb30f3&rid=giphy.gif&ct=g">
 </div>
 
 ##
